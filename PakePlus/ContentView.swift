@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         // BottomMenuView()
-        WebView(url: URL(string: "https://juejin.cn/")!)
+        WebView(url: URL(string: "https://mail.deem.sa/")!)
             .ignoresSafeArea()
     }
 }
